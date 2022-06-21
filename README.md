@@ -1,7 +1,7 @@
 # Ha Trong Nghia
 *Life Sciences and Biotechnology*
 
-[Email](hatrongnghia@outlook.com) / [Linkedin](https://www.linkedin.com/in/nghia-ha-trong) / [Github](nghiahust.github.io) / [Facebook](https://www.facebook.com/haftrongjnghiax)
+[Email](hatrongnghia@outlook.com) / [Linkedin](https://www.linkedin.com/in/nghia-ha-trong) / [Github](https://github.com/nghiahust) / [Facebook](https://www.facebook.com/haftrongjnghiax)
 
 Phone number: +84.947.186.245
 
