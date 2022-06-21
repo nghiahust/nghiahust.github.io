@@ -1,2 +1,2 @@
-# nghiahust.github.io
-My humble corner
+# Ha Trong Nghia
+My online resume
