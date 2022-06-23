@@ -1,5 +1,7 @@
-![My Picture](profile-pic.png)
+![](profile-pic.png)
+
 # Ha Trong Nghia
+
 *Life Sciences and Biotechnology*
 
 ## Contact
@@ -14,7 +16,9 @@ Location: Hanoi, Vietnam
 
 My name is Nghia. I have been working for life sciences distributors for years as sales executive and product manager. My knowledge and my experiences help me to support the customer on the research works, and provide them the best products.
 
-I am eager to learn more about the innovative technology to make the science research become real-world applications, such as biopharmaceutical, drug discovery, bioinformatics...
+## Career Objective
+
+I am eager to learn more about the innovative technology to make the science research become real-world applications, such as biopharmaceutical, drug discovery, bioinformatics, cell & gene therapy, sustainable agriculture...
 
 ## Work Experience
 
