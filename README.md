@@ -22,12 +22,16 @@ I am eager to learn more about the innovative technology to make the science res
 
 ## Work Experience
 
-### Sales Executive @ [AT&T Limited Company](http://ivfvietnam.vn) (2015 - 2017)
+### Sales Executive
+
+@ [AT&T Limited Company](http://ivfvietnam.vn) (2015 - 2017)
 - Directly sales the equipments, consumables, and reagents for fertility clinics/hospitals.
 - Organise seminar and give speech to the customers.
 - Keep tracking the business result and report to the manager. 
 
-### Product Manager @ [BCE Vietnam Limited Company](https://bcevietnam.com.vn) (2017 - present)
+### Product Manager
+
+@ [BCE Vietnam Limited Company](https://bcevietnam.com.vn) (2017 - present)
 - In charge for marketing and technical support for some major brands: Cytiva, Molecular Devices, Infors-HT, UNIVERCELLS, Ugo Basile, ThreeShine...
 - Product manager for following product lines:
 	- Protein research (Electrophoresis, Western Blot, Gel Imaging, Analytics, Expression, Purification...)
@@ -38,7 +42,7 @@ I am eager to learn more about the innovative technology to make the science res
 - Working directly with customer from products presentation to after-sales training. 
 - Tracking the business development along with brands country leader. 
 
-## Skills
+## Skills & Proficiency
 
 ### Biotechnology
 
@@ -71,7 +75,9 @@ I am eager to learn more about the innovative technology to make the science res
 - English: Upper-Intermediate (verbal, and oral)
 
 ## Education
-### Biological Engineering @ [Hanoi University of Science and Technology](https://hust.edu.vn/), [School of Food and Biotechnology](http://sbft.hust.edu.vn/)
+### Biological Engineering
+
+@ [Hanoi University of Science and Technology](https://hust.edu.vn/), [School of Food and Biotechnology](http://sbft.hust.edu.vn/)
 
 ## Hobbies
 - Book (sci-fi, history, fantasy...)
