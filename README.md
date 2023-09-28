@@ -6,7 +6,7 @@
 
 ## Contact
 
-[Email](hatrongnghia@outlook.com) / [Linkedin](https://www.linkedin.com/in/nghia-ha-trong) / [Github](https://github.com/nghiahust) / [Facebook](https://www.facebook.com/haftrongjnghiax)
+[Email](hatrongnghia@outlook.com) / [Linkedin](https://www.linkedin.com/in/nghia-ha-trong) / [Github](https://github.com/nghiaxsm) / [Facebook](https://www.facebook.com/haftrongjnghiax)
 
 Phone number: +84.947.186.245
 
@@ -46,7 +46,7 @@ I am eager to learn more about the innovative technology to make the science res
 
 ### Biotechnology
 
-- Understanding the relating knowledge to biology, and biotechnology.
+- Understanding the relating knowledge to biology, and biotechnology especially in biopharmaceutical field.
 - Familiar with major laboratory equipments, reagents, and consumables.
 - Have fair understanding of major life sciences brands in the market (products, customers, distributing channel...)
 
@@ -57,13 +57,14 @@ I am eager to learn more about the innovative technology to make the science res
  
 ### Designing
 
-- Have experience using Adobe Photoshop, Canva, MS PowerPoint for designing digital materials.
+- Have experience using Adobe Photoshop, Canva, MS PowerPoint for designing digital and pritable materials.
 - Able to make the marketing related documents, such as catalog, leaflet, standee, social media post,...
 
 ### Marketing
 
-- Have ability to give presentation in English and Vietnamese
+- Have ability to give product presentation in English and Vietnamese fluently
 - Can conduct the marketing actitives in offline (customer visits, conferences, seminar...), and online (virtual call, webinar, website, social network...) format.
+- Have ex
 
 ### Business Development
 
