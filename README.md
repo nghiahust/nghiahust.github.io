@@ -1,5 +1,3 @@
-![](profile-pic.png)
-
 # Ha Trong Nghia
 
 *Life Sciences and Biotechnology*
